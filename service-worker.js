@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9e05a167c9295ba1237a702ca4b0f490.js"
+  "/precache-manifest.5f0db976150bc9948abbc9096cab5b99.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "firebase-test"});
